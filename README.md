@@ -46,3 +46,5 @@ The project follows a hybrid approach combining:
 I am a Project Management & Operations professional building hands-on projects to strengthen my PM portfolio and transition into technology-driven project roles.
 
 This repository is part of my professional portfolio.
+Notion Link
+https://www.notion.so/Portfolio-Olman-Andr-s-2e207e92d3368095ae5cc2369bea01ba?showMoveTo=true
